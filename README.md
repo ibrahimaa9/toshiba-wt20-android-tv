@@ -42,11 +42,14 @@ decoding, but packaged as Android TV.
 
 ## Download
 
+Build of 2026-11-18 (MediaFire):
+
 | File | What it is |
 |---|---|
-| `lineage-23.2-<date>-UNOFFICIAL-pc_x86_64_tv-wt20-tv-dual.img` | The dual-boot installer stick: the Android TV system, the unattended "install next to Windows" entry, and a `windows` folder with the preparation scripts. |
+| [`lineage-23.2-20261118-UNOFFICIAL-pc_x86_64_tv-wt20-tv-dual.img`](https://www.mediafire.com/file/vhkdkeem96859om/lineage-23.2-20261118-UNOFFICIAL-pc_x86_64_tv-wt20-tv-dual.img/file) (1.32 GB) | The dual-boot installer stick: the Android TV system, the unattended "install next to Windows" entry, and a `windows` folder with the preparation scripts. |
 
-**Links:** DOWNLOAD_LINKS_HERE. Check the files against `SHA256SUMS` after you download them.
+Check the file against [`SHA256SUMS`](SHA256SUMS) after you download it
+(`sha256sum -c SHA256SUMS`, or `certutil -hashfile <file> SHA256` on Windows).
 
 ## Install
 
